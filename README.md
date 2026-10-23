@@ -35,14 +35,16 @@ Python · Go · 逆向工程 · 安全工具链
 
 ## 战绩
 
-<!-- LEVELUP:START 由 gh-levelup audit --markdown 生成 -->
+<!-- LEVELUP:START 由 gh-levelup audit 生成，勿手改 -->
 
 | 指标 | 数值 |
 | --- | --- |
-| 原创仓库 | 1 |
-| 已合并 PR | 1 |
-| 近一年贡献 | 11 |
-| 徽章 | pair-extraordinaire |
+| 等级 | `L3 白银 Silver` · 370/1100 |
+| 原创仓库 | 2 |
+| 已合并 PR | 2 |
+| 近一年贡献 | 23 |
+| 当前连击 | 9 天 |
+| 徽章 | pair-extraordinaire, quickdraw, yolo |
 
 <!-- LEVELUP:END -->
 
